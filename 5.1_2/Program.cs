@@ -22,6 +22,7 @@ namespace _5._1_2
             string text = Console.ReadLine();
 
             DivideWord(text);
+            Console.ReadLine();
         }
     }
 }
