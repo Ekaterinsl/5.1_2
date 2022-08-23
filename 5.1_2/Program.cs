@@ -8,7 +8,6 @@ namespace _5._1_2
         {
             string[] subs = s.Split(' ');
 
-
             foreach (var sub in subs)
             {
                 Console.WriteLine($" {sub}");
